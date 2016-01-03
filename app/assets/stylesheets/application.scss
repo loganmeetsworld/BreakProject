@@ -16,7 +16,14 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
+ @import url('https://fonts.googleapis.com/css?family=Lora|Tangerine|Inconsolata|Droid+Sans|Raleway');
+
+
 //body_classes
+
+.title {
+  font-family: Lora;
+} 
 
 .all-hoods {
   background: url('downtown-seattle.jpg') no-repeat center center fixed;
